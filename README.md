@@ -1,1 +1,1 @@
-# weathercalculator
+# weatherpredictor
